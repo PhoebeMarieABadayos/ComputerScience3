@@ -1,1 +1,3 @@
-# ComputerScience3
+- This is a sample file for my first github projectin CS3
+- Please clone this repository to your repo.
+- https://github.com/PhoebeMarieABadayos/ComputerScience3
